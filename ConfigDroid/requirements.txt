@@ -1,0 +1,10 @@
+Levenshtein==0.18.1
+lxml==4.8.0
+opencv-python==4.5.5.64
+sentence-transformers==1.0.3
+torch==1.6.0
+torchvision==0.7.0
+xmltodict==0.12.0
+uiautomator2==2.13.0
+loguru==0.5.3
+openai==0.27.0
