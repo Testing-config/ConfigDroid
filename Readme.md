@@ -51,3 +51,8 @@ You can install these dependencies using the provided `requirements.txt` file.
     ```sh
     export OPENAI_API_KEY="<YOUR_OPENAI_API_KEY>"
     ```
+
+## Others
+
+
+Some large data and tools exceed the upload limit of github. If necessary, please contact chexing0313@gmail.com.
