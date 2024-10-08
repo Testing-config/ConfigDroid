@@ -55,4 +55,4 @@ You can install these dependencies using the provided `requirements.txt` file.
 ## Others
 
 
-Some large data and tools exceed the upload limit of github. If necessary, please contact chexing0313@gmail.com.
+Some large data and tools exceed the upload limit of github. If necessary, please contact 24744873@qq.com.
